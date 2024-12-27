@@ -8,7 +8,7 @@ export default function Trip({country, place, startDate, endDate, description, p
 
     return (
         <div className="trip--container">
-            <img src= {picture} className="trip--picture"></img>
+            <img src= "img/austin-trip.png" className="trip--picture"></img>
             <div>
                 <div className="trip--location-container">
                     <img src="img/location-icon.png" className="trip-location-icon"></img>
