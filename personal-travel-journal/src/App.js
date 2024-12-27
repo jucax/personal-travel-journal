@@ -24,7 +24,6 @@ function App() {
       <section className="trips-list">
         {trips}
       </section>
-      <img src="./assets/images/austin-trip.png"/>
     </div>
   );
 }
