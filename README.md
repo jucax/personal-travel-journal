@@ -1,1 +1,1 @@
-# personal-travel-journal
+Contains all the files for a personal project journal that allowed me to practice the basic contents on React.
